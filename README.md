@@ -61,11 +61,11 @@ I enjoy developing high-performance Flutter applications, integrating APIs, desi
 
 ## 🏢 Experience
 
-### IT Trainee — Nib International Bank
+### SoftWare Developer — Nib International Bank
 **July 2025 – Present**
 
 - Enterprise IT support and system monitoring
-- Banking application support
+- Banking application Devlopment
 - Database administration and reporting
 - Troubleshooting hardware, software, and network issues
 - Application development support
@@ -160,11 +160,11 @@ git remote -v
 
 > Replace YOUR_USERNAME with your GitHub username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiruworkk&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tiruworkk&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiruworkk&layout=compact&theme=tokyonight)
 
 ---
 
